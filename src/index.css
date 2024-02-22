@@ -39,6 +39,11 @@
   padding: 1rem;
   border-radius: 100%;
 }
+.nav {
+ 
+  z-index: 9999;
+  /* Add any other necessary styles for your navigation bar */
+}
 
 @layer base {
   body {
