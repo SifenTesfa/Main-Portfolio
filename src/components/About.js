@@ -1,8 +1,6 @@
 import React from 'react';
 import Lottie from 'react-lottie';
 import load from './load.json';
-import CountUp from "react-countup"
-import { useInView } from 'react-intersection-observer'
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
 
